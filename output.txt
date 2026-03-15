@@ -1,0 +1,9 @@
+from input01.txt
+Max area: 1385.44 (Shape: Circle)
+Max perimeter: 131.95 (Shape: Circle)
+from input02.txt
+Max area: 1963.50 (Shape: Circle)
+Max perimeter: 157.08 (Shape: Circle)
+from input03.txt
+Max area: 1963.50 (Shape: Circle)
+Max perimeter: 157.08 (Shape: Circle)
